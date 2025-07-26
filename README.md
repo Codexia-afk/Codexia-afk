@@ -16,37 +16,23 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack & Tools
 
-### 💻 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ES6+](https://img.shields.io/badge/ES6+-yellow?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Responsive](https://img.shields.io/badge/Responsive-Design-blue?style=for-the-badge)
+<div align="center">
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=react,firebase,mongodb,c,cpp,tailwindcss,html,css,javascript,python,git,vim" height="40" />
+</div>
 
-### 🤖 AI & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-
-### 🪙 Blockchain & Web3
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FCC72B?style=for-the-badge)
-![Monad](https://img.shields.io/badge/Monad-9b59b6?style=for-the-badge)
-
-### 🧩 DSA & Problem Solving
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Practice](https://img.shields.io/badge/Practice-FF5733?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-blue?style=for-the-badge)
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Codexia-afk/Codexia-afk/blob/output/github-contribution-grid-snake.svg)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codexia-afk&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=false" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Codexia-afk&theme=github_dark&hide_border=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codexia-afk&layout=compact&theme=github_dark&hide_border=false&langs_count=6" height="165"/>
+</div>
+
 
 ---
 
