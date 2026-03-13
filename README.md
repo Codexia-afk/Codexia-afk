@@ -19,7 +19,7 @@
 ## 🛠 Tech Stack & Tools
 
 <div align="center">
- <img src="https://go-skill-icons.vercel.app/api/icons?i=react,firebase,mongodb,c,cpp,tailwindcss,html,css,javascript,python,git,vim" height="40" />
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,c,cpp,tailwindcss,html,css,javascript,python,git,vim" height="40" />
 </div>
 
 
