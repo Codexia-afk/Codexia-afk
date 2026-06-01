@@ -28,7 +28,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@srinjoy_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@srinjoy_18" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/srinjoy-pramanick-2a3019309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinjoy-pramanick-2a3019309" height="30" width="40" /></a>
 <a href="https://kaggle.com/srinjoypramanick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srinjoypramanick" height="30" width="40" /></a>
+<a href="https://fb.com/srinjoy.pramanick.2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srinjoy.pramanick.2025" height="30" width="40" /></a>
 <a href="https://instagram.com/unknown_syntax01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unknown_syntax01" height="30" width="40" /></a>
 <a href="https://medium.com/@srinjoypramanick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srinjoypramanick" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/srinjoypramanick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srinjoypramanick" height="30" width="40" /></a>
