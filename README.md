@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Srinjoy%20Pramanick&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 # 💫 About Me:
-🔭 I’m currently working on Nexus<br>🌱 I’m currently learning Frameworks, Pandas (in python) and generative AI<br>👯 I’m looking to collaborate on Deep_Genie<br>🤝 I’m looking for help with Cost_effieciency_web<br>👨‍💻 All of my projects are available at https://portfolio-website-codexia-afk.vercel.app/<br>💬 Ask me about Python , C , Mysql, Html, CSS, Javascript , PHP, MongoDB<br>📫 How to reach me srinjoypramanick15@gmail.com<br>⚡ Fun fact I think I am Funny Gamer plays with my own life
+🔭 I’m currently working on Nexus<br>🌱 I’m currently learning Frameworks, Pandas (in python) and generative AI<br>👯 I’m looking to collaborate on Deep_Genie<br>🤝 I’m looking for help with Cost_effieciency_web<br>👨‍💻 All of my projects are available at [[https://portfolio-website-codexia-afk.vercel.app/](https://github.com/Codexia-afk?tab=repositories)](https://github.com/Codexia-afk?tab=repositories)<br>💬 Ask me about Python , C , Mysql, Html, CSS, Javascript , PHP, MongoDB<br>📫 How to reach me srinjoypramanick15@gmail.com<br>⚡ Fun fact I think I am Funny Gamer plays with my own life
 
 
 ## 🌐 Socials:
