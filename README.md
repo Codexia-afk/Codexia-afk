@@ -14,7 +14,11 @@
   <a href="https://github.com/Codexia-afk">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Codexia-afk&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Codexia-afk's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Codexia-afk&theme=radical&hide_border=true&cache_seconds=86400" alt="Codexia-afk's GitHub Streak" width="49%" />
+ <div align="center">
+  
+  <img src="https://streak-stats.demolab.com/?user=Codexia-afk&theme=github_dark&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Codexia-afk&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8" height="150"/>
+</div>
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Codexia-afk&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Srinjoy Pramanick's GitHub Trophies" />
