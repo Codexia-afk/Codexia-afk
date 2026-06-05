@@ -29,6 +29,17 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Codexia-afk&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Codexia-afk">
+    <img src="https://komarev.com/ghpvc/?username=Codexia-afk&label=Profile%20views&color=00FFFF&style=flat-square" alt="Codexia-afk's profile views" />
+  </a>
+</p>
+
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Codexia-afk&theme=radical&radius=10" alt="Codexia-afk's Activity Graph" />
+</p>
+
+
 
 ![Top language](https://stats.pphat.top/languages?username=Codexia-afk)
 <br/>
