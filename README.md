@@ -23,6 +23,7 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Codexia-afk&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Srinjoy Pramanick's GitHub Trophies" />
 </p>
+
 ## 🛠️ Languages & Tools
 <p align="center">
   <a href="https://github.com/Codexia-afk">
