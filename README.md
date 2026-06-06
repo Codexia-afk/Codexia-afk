@@ -17,7 +17,7 @@
  <div align="center">
   
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Codexia-afk&theme=dark" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Codexia-afk&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8" height="150"/>
+ 
 </div>
 </p>
 <p align="center">
