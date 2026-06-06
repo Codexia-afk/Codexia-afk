@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on Nexus<br>🌱 I’m currently learning Frameworks, Pandas (in python) and generative AI<br>👯 I’m looking to collaborate on Deep_Genie<br>🤝 I’m looking for help with Cost_effieciency_web<br>👨‍💻 All of my projects are available at https://github.com/Codexia-afk?tab=repositories<br>💬 Ask me about Python , C , Mysql, Html, CSS, Javascript , PHP, MongoDB<br>📫 How to reach me srinjoypramanick15@gmail.com<br>⚡ Fun fact I think I am Funny Gamer plays with my own life
+
 📄 **Resume:** [View Resume](https://github.com/Codexia-afk/Codexia-afk/blob/main/Srinjoy%27s%20Resume_1.pdf)
 
 ## 🌐 Socials:
