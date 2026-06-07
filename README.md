@@ -13,9 +13,7 @@
 ## 📊 GitHub Stats & Trophies
 
   <p align="center">
-  <a href="https://github.com/Codexia-afk">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Codexia-afk&theme=dark" alt="GitHub Streak" /></a>
-  </a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Codexia-afk&theme=onedark-duo" alt="GitHub Streak" /></a>
  <div align="center">
 
  
