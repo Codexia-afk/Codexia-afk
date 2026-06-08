@@ -3,7 +3,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Nexus<br>🌱 I’m currently learning Frameworks, Pandas (in python) and generative AI<br>👯 I’m looking to collaborate on Deep_Genie<br>🤝 I’m looking for help with Cost_effieciency_web<br>👨‍💻 All of my projects are available at https://github.com/Codexia-afk?tab=repositories<br>💬 Ask me about Python , C , Mysql, Html, CSS, Javascript , PHP, MongoDB<br>📫 How to reach me srinjoypramanick15@gmail.com<br>⚡ Fun fact I think I am Funny Gamer plays with my own life
 
-📄 **Resume:** [View Resume](https://github.com/Codexia-afk/Codexia-afk/blob/main/Srinjoy%27s%20Resume_1.pdf)
+
+
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge)](./Srinjoy%27s%20Resume_1.pdf)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/srinjoy.pramanick.2025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unknown_syntax01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srinjoy-pramanick-2a3019309) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@srinjoypramanick) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Unknown_syntax) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srinjoypramanick15@gmail.com) 
