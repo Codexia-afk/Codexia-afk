@@ -16,7 +16,7 @@
 
   <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Codexia-afk&theme=microsoft-dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Codexia-afk&theme=microsoft-dark" alt="GitHub Streak" />
   </a>
 </p>
 </div>
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Codexia-afk&theme=radical&radius=10" alt="Codexia-afk's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Codexia-afk&theme=radical&radius=10%22%20alt=%22Codexia-afk%27s%20Activity%20Graph" />
 </p>
 
 
