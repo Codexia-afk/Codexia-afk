@@ -16,7 +16,7 @@
 
   <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Codexia-afk&theme=microsoft-dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Codexia-afk&theme=github_dark&hide_border=false" alt="GitHub Streak" />
   </a>
 </p>
 </div>
