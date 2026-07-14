@@ -7,6 +7,8 @@
 
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge)](https://codexia-afk.github.io/Codexia-afk/Srinjoy%27s%20Resume_1.pdf)
 
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/srinjoy.pramanick.2025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unknown_syntax01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srinjoy-pramanick-2a3019309) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@srinjoypramanick) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Unknown_syntax) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srinjoypramanick15@gmail.com) 
 
@@ -51,7 +53,17 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
+
+<p align="center">
+  <a href="https://github.com/sponsors/Codexia-afk" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" height="36" alt="Sponsor Codexia-afk"/>
+  </a>
+  &nbsp;&nbsp;
+  
+  
+  
+  
+  ---
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
