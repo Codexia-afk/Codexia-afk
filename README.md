@@ -59,8 +59,7 @@
     <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" height="36" alt="Sponsor Codexia-afk"/>
   </a>
   &nbsp;&nbsp;
-  
-  
+  <a href='https://ko-fi.com/T5D323O4AJ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
   
   
   ---
