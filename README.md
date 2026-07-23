@@ -6,14 +6,16 @@
   />
 </p>
 
-<h1 align="center">Hey 👋, I'm Srinjoy Pramanick</h1>
+<h1 align="center">
+Hey 👋, I'm Srinjoy Pramanick
+</h1>
 
 <h3 align="center">
-AI • Machine Learning • Full Stack Developer • Cybersecurity Enthusiast
+Building AI, Machine Learning & Full-Stack Applications that Solve Real-World Problems 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Hackathon+Builder;Open+Source+Contributor;Always+Learning+🚀" />
+💡 AI/ML Enthusiast • 🛡️ Cybersecurity • ⚛️ React • ⚡ FastAPI • 🤖 Generative AI
 </p>
 
 # 💫 About Me:
