@@ -1,4 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Srinjoy%20Pramanick&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Y2anRuN21lOXU4NmthOWdydmN5bW9pdDU5cGdueGtwbXMwbmF1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7TTgV830a3luvc0FbJ/giphy.gif"
+    alt="Coding Animation"
+    width="650"
+  />
+</p>
 
 # 💫 About Me:
 🔭 I’m currently working on CyberTwinAI<br>🌱 I’m currently learning Frameworks, Pandas (in python) and generative AI<br>👯 I’m looking to collaborate on Deep_Genie<br>🤝 I’m looking for help with Cost_effieciency_web<br>👨‍💻 All of my projects are available at https://github.com/Codexia-afk?tab=repositories<br>💬 Ask me about Python , C , Mysql, Html, CSS, Javascript , PHP, MongoDB<br>📫 How to reach me srinjoypramanick15@gmail.com<br>⚡ Fun fact I'm a 'funny gamer,' but the only life I'm playing with is my own.
