@@ -6,6 +6,16 @@
   />
 </p>
 
+<h1 align="center">Hey 👋, I'm Srinjoy Pramanick</h1>
+
+<h3 align="center">
+AI • Machine Learning • Full Stack Developer • Cybersecurity Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Hackathon+Builder;Open+Source+Contributor;Always+Learning+🚀" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on CyberTwinAI<br>🌱 I’m currently learning Frameworks, Pandas (in python) and generative AI<br>👯 I’m looking to collaborate on Deep_Genie<br>🤝 I’m looking for help with Cost_effieciency_web<br>👨‍💻 All of my projects are available at https://github.com/Codexia-afk?tab=repositories<br>💬 Ask me about Python , C , Mysql, Html, CSS, Javascript , PHP, MongoDB<br>📫 How to reach me srinjoypramanick15@gmail.com<br>⚡ Fun fact I'm a 'funny gamer,' but the only life I'm playing with is my own.
 
