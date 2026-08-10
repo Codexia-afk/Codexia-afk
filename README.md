@@ -1,9 +1,5 @@
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Y2anRuN21lOXU4NmthOWdydmN5bW9pdDU5cGdueGtwbXMwbmF1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7TTgV830a3luvc0FbJ/giphy.gif"
-    alt="Coding Animation"
-    width="650"
-  />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1xYmE1N2puOWQzeWJvZmplbDdraTQwZDNiMWdmcHJkdTJkYjRobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LW2zqvNhYdX2igvtLq/giphy.gif" width="800">
 </p>
 
 <h1 align="center">
