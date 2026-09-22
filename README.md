@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1xYmE1N2puOWQzeWJvZmplbDdraTQwZDNiMWdmcHJkdTJkYjRobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LW2zqvNhYdX2igvtLq/giphy.gif" width="800">
+  <img src="https://media.giphy.com/media/DqiMTFxiXx0VaVZQbF/giphy.gif" width="480" alt="GIF">
 </p>
+
 
 <h1 align="center">
 Hey 👋, I'm Srinjoy Pramanick
